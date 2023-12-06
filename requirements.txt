@@ -8,4 +8,4 @@ matplotlib
 
 #model
 xgboost
-sklearn
+scikit-learn
